@@ -5,4 +5,5 @@ The list includes
 
 1. Frequency counter pattern
 2. Multiple pointers pattern
-3. Divide and conquer pattern
+3. Sliding window pattern
+4. Divide and conquer pattern
